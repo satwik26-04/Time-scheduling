@@ -1,0 +1,101 @@
+Task_ID,Task_Difficulty,Task_Type,Days_Until_Deadline,Subject_Priority,Routine_Block_Start,Routine_Block_End,Break_Preference,Task_Completion_Rate,Grades,Screen_Time,Stress_Level
+Task_1,5,Writing,1,6,08:00,08:00,Pomodoro,0.88,80,2.4,10
+Task_2,5,Writing,8,3,06:00,07:00,Long Breaks,0.96,78,2.5,3
+Task_3,10,Writing,5,8,07:00,07:00,Long Breaks,0.53,81,3.8,10
+Task_4,7,Writing,6,6,08:00,07:00,Long Breaks,0.89,97,1.8,1
+Task_5,5,Reading,5,3,08:00,07:00,Pomodoro,0.78,90,1.8,1
+Task_6,9,Writing,9,10,07:00,09:00,Long Breaks,0.54,90,1.7,8
+Task_7,8,Problem-Solving,13,1,08:00,09:00,Long Breaks,0.87,95,3.3,8
+Task_8,7,Reading,1,3,06:00,09:00,Pomodoro,0.83,98,2.4,8
+Task_9,8,Writing,12,1,07:00,09:00,Long Breaks,0.83,77,3.0,4
+Task_10,9,Reading,13,7,06:00,07:00,Pomodoro,0.81,69,2.1,10
+Task_11,3,Problem-Solving,10,6,08:00,07:00,Long Breaks,0.54,60,3.5,7
+Task_12,6,Problem-Solving,8,1,07:00,07:00,Long Breaks,0.72,61,1.4,9
+Task_13,5,Reading,10,7,07:00,07:00,Long Breaks,0.89,94,3.6,1
+Task_14,7,Writing,6,9,07:00,09:00,Long Breaks,0.72,83,1.4,9
+Task_15,5,Reading,6,6,06:00,08:00,Pomodoro,0.86,88,1.4,1
+Task_16,9,Reading,12,7,06:00,09:00,Pomodoro,0.6,57,2.5,10
+Task_17,4,Writing,11,1,06:00,07:00,Pomodoro,0.74,88,1.8,10
+Task_18,5,Writing,7,3,08:00,09:00,Long Breaks,0.8,97,3.8,5
+Task_19,3,Writing,3,9,08:00,07:00,Pomodoro,0.54,96,1.3,9
+Task_20,7,Reading,10,8,06:00,07:00,Long Breaks,0.56,97,3.2,10
+Task_21,5,Problem-Solving,12,10,07:00,08:00,Pomodoro,0.67,69,1.4,3
+Task_22,9,Reading,11,8,08:00,08:00,Pomodoro,0.81,99,3.4,9
+Task_23,2,Writing,10,8,08:00,08:00,Long Breaks,1.0,76,2.0,1
+Task_24,2,Writing,2,5,08:00,08:00,Pomodoro,0.77,62,3.4,9
+Task_25,1,Problem-Solving,2,5,08:00,09:00,Long Breaks,0.65,63,1.2,3
+Task_26,9,Writing,14,1,08:00,08:00,Pomodoro,0.75,66,2.5,5
+Task_27,9,Reading,5,9,08:00,09:00,Long Breaks,0.78,62,3.3,8
+Task_28,8,Reading,12,10,06:00,07:00,Pomodoro,0.76,87,2.4,9
+Task_29,2,Problem-Solving,4,4,06:00,09:00,Long Breaks,0.95,55,1.9,6
+Task_30,1,Reading,9,2,08:00,07:00,Pomodoro,0.52,76,3.0,3
+Task_31,5,Writing,5,7,06:00,08:00,Pomodoro,0.98,59,1.0,8
+Task_32,1,Problem-Solving,11,7,08:00,09:00,Long Breaks,0.91,51,2.3,6
+Task_33,4,Problem-Solving,8,3,08:00,09:00,Long Breaks,0.91,53,2.0,5
+Task_34,8,Reading,7,7,08:00,07:00,Long Breaks,0.98,94,3.6,10
+Task_35,2,Writing,12,5,07:00,07:00,Long Breaks,0.73,87,1.6,2
+Task_36,7,Reading,11,1,06:00,09:00,Pomodoro,0.56,82,3.3,2
+Task_37,1,Reading,13,7,08:00,08:00,Pomodoro,0.93,75,3.7,8
+Task_38,2,Reading,14,3,07:00,09:00,Long Breaks,0.86,71,1.9,7
+Task_39,1,Writing,10,1,07:00,09:00,Long Breaks,0.67,62,2.0,7
+Task_40,7,Reading,5,10,08:00,09:00,Pomodoro,0.77,67,3.5,2
+Task_41,9,Reading,3,4,08:00,09:00,Pomodoro,0.93,80,1.1,3
+Task_42,9,Writing,14,2,06:00,09:00,Pomodoro,0.83,72,2.4,4
+Task_43,6,Problem-Solving,6,1,08:00,07:00,Long Breaks,0.7,67,2.0,3
+Task_44,3,Problem-Solving,8,1,08:00,07:00,Pomodoro,0.54,63,3.7,9
+Task_45,6,Reading,3,7,08:00,07:00,Pomodoro,0.51,53,2.9,4
+Task_46,8,Writing,6,2,08:00,07:00,Long Breaks,0.68,66,2.4,10
+Task_47,1,Problem-Solving,9,4,06:00,08:00,Pomodoro,0.58,77,3.4,5
+Task_48,9,Writing,8,6,08:00,08:00,Pomodoro,0.99,80,2.5,7
+Task_49,2,Reading,13,10,07:00,09:00,Pomodoro,0.82,59,3.3,2
+Task_50,9,Writing,7,2,08:00,08:00,Long Breaks,0.84,53,1.5,6
+Task_51,3,Reading,1,10,06:00,07:00,Pomodoro,0.92,50,3.9,5
+Task_52,6,Writing,13,7,06:00,07:00,Long Breaks,0.89,55,2.3,6
+Task_53,3,Problem-Solving,8,8,08:00,08:00,Long Breaks,0.74,72,3.7,5
+Task_54,1,Reading,8,4,08:00,07:00,Pomodoro,0.93,66,3.6,3
+Task_55,8,Problem-Solving,6,3,06:00,09:00,Pomodoro,0.85,53,4.0,1
+Task_56,2,Problem-Solving,1,2,06:00,08:00,Pomodoro,0.57,74,1.8,6
+Task_57,2,Reading,2,6,06:00,08:00,Long Breaks,0.62,54,3.3,5
+Task_58,7,Writing,6,1,08:00,08:00,Long Breaks,0.95,62,2.5,5
+Task_59,10,Problem-Solving,8,3,07:00,07:00,Pomodoro,0.96,81,3.3,9
+Task_60,2,Problem-Solving,5,10,07:00,08:00,Pomodoro,0.68,61,2.7,7
+Task_61,9,Problem-Solving,3,4,08:00,07:00,Pomodoro,0.62,68,3.8,10
+Task_62,3,Problem-Solving,1,2,06:00,07:00,Pomodoro,0.7,82,1.3,3
+Task_63,1,Writing,10,2,07:00,08:00,Pomodoro,0.67,74,1.1,3
+Task_64,10,Problem-Solving,10,9,07:00,08:00,Pomodoro,0.63,57,1.8,10
+Task_65,6,Writing,8,3,07:00,08:00,Pomodoro,0.83,69,3.4,3
+Task_66,4,Reading,14,4,06:00,07:00,Long Breaks,0.86,87,3.7,3
+Task_67,5,Reading,10,6,07:00,08:00,Long Breaks,0.66,53,2.3,2
+Task_68,4,Reading,9,7,07:00,08:00,Long Breaks,0.59,65,1.4,4
+Task_69,8,Writing,14,1,06:00,09:00,Pomodoro,0.58,53,2.3,7
+Task_70,8,Writing,14,5,08:00,07:00,Pomodoro,0.78,66,3.5,4
+Task_71,8,Reading,3,3,08:00,07:00,Pomodoro,0.73,70,1.4,8
+Task_72,2,Writing,7,7,06:00,09:00,Pomodoro,0.82,97,2.1,8
+Task_73,6,Problem-Solving,9,5,06:00,09:00,Long Breaks,0.66,82,2.9,3
+Task_74,3,Writing,6,4,08:00,07:00,Long Breaks,0.98,51,1.5,6
+Task_75,7,Writing,4,3,06:00,08:00,Long Breaks,0.61,59,3.9,4
+Task_76,6,Reading,13,8,08:00,08:00,Long Breaks,0.93,71,3.6,7
+Task_77,5,Writing,12,4,06:00,08:00,Pomodoro,0.78,76,3.7,1
+Task_78,7,Reading,4,8,08:00,09:00,Long Breaks,0.94,53,2.2,9
+Task_79,5,Writing,7,10,08:00,07:00,Pomodoro,0.95,70,3.5,8
+Task_80,5,Writing,14,4,07:00,07:00,Long Breaks,0.59,80,2.8,4
+Task_81,7,Writing,6,5,06:00,07:00,Pomodoro,0.82,84,2.8,9
+Task_82,4,Writing,3,1,07:00,08:00,Pomodoro,0.67,60,3.3,5
+Task_83,1,Problem-Solving,8,1,08:00,09:00,Long Breaks,0.76,77,3.9,4
+Task_84,1,Problem-Solving,6,1,06:00,09:00,Pomodoro,0.69,69,2.4,10
+Task_85,6,Reading,6,7,07:00,08:00,Pomodoro,0.68,52,1.3,9
+Task_86,7,Reading,11,8,06:00,08:00,Long Breaks,0.89,79,3.5,10
+Task_87,3,Writing,12,2,07:00,07:00,Pomodoro,0.63,92,2.5,4
+Task_88,7,Reading,8,4,07:00,08:00,Pomodoro,0.65,55,1.7,9
+Task_89,7,Reading,8,9,06:00,09:00,Pomodoro,0.89,72,2.8,4
+Task_90,6,Reading,4,4,06:00,07:00,Long Breaks,0.59,81,3.8,2
+Task_91,10,Problem-Solving,3,7,06:00,08:00,Pomodoro,0.94,72,1.2,2
+Task_92,8,Writing,13,8,08:00,08:00,Long Breaks,0.67,60,2.1,5
+Task_93,7,Reading,8,4,08:00,07:00,Long Breaks,0.69,53,1.1,7
+Task_94,7,Problem-Solving,12,9,06:00,07:00,Long Breaks,0.58,74,2.0,6
+Task_95,5,Writing,5,10,06:00,08:00,Long Breaks,0.83,59,1.4,5
+Task_96,10,Reading,3,6,08:00,08:00,Pomodoro,0.74,96,3.9,9
+Task_97,5,Writing,13,4,06:00,07:00,Pomodoro,0.87,71,1.8,6
+Task_98,10,Writing,2,3,08:00,08:00,Pomodoro,0.99,57,4.0,4
+Task_99,8,Reading,12,1,08:00,07:00,Pomodoro,0.86,77,2.9,5
+Task_100,10,Writing,14,10,06:00,09:00,Long Breaks,0.74,75,3.7,10
